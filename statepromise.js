@@ -1,7 +1,6 @@
 const promise = new Promise((resolve , reject)=>{
     const res = true;
-    // An asynchronus operation.
-
+    // An asynchronus operation.s
     if(res) {
         resolve("Resolved!");
     } else {
